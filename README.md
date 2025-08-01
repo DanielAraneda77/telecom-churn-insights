@@ -1,5 +1,3 @@
-# telecom-churn-insights
-
 Proyecto de fundamentos en Data Science centrado en la limpieza y exploración visual de un dataset sobre abandono de clientes en el sector telecomunicaciones. Se documentan las etapas clave del preprocesamiento, las visualizaciones univariadas y multivariadas, así como los hallazgos interpretativos que pueden apoyar decisiones ejecutivas.
 
 ---
