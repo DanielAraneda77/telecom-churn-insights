@@ -32,7 +32,9 @@ Proyecto de fundamentos en Data Science centrado en la limpieza y exploración v
 
 [![Conectar en LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/daniel-araneda-yasic)
 
-¿Te interesó el proyecto o quieres conversar sobre Data Science, visualización o IA eficiente? ¡Estoy abierto a colaboraciones, feedback y nuevas ideas!
+¿Eres reclutador o profesional del sector interesado en proyectos aplicados de Data Science, visualización de datos o inteligencia artificial eficiente?  
+Este proyecto refleja mi enfoque técnico y comunicativo, y estoy abierto a oportunidades laborales, colaboración en equipos multidisciplinarios y desarrollo de soluciones prácticas y reproducibles.
 
+📫 No dudes en contactarme para conversar sobre cómo puedo aportar valor desde la intersección entre análisis técnico, creatividad visual y documentación didáctica.
 
 
